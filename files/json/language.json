@@ -1,0 +1,362 @@
+{
+	"German": {
+		"menuText": [
+			"Hauptseite",
+			"Über mich",
+			"Kursprogramm",
+			"Galerie"
+		],
+		"tableBlockLinkNextEventsOne": [
+			"Schnuppertag",
+			"Naturspielgruppe"
+		],
+		"tableBlockLinkNextEventsTwo": [
+			"Schnuppertag",
+			"Naturspielgruppe"
+		],
+		"tableBlockLinkNextEventsThree": [
+			"Naturspielgruppe Sünneli"
+		],
+		"tableBlockLinkcontentTabsCourseOne": [
+			"Gordon-Lösungsmanagement 5 Module",
+			"Naturspielgruppe"
+		],
+		"tableBlockLinkcontentTabsCourseTwo": [
+			"Mutter-Kind Mosaikkugeltag",
+			"Naturspielgruppe"
+		],
+		"tableBlockLinkcontentTabsCourseThree": [
+			"Möbel aufpimpen"
+		],
+		"tableBlockLinkcontentTabsCourseFour": [
+			"Mosaiktag"
+		],
+		"tableBlockLinkcontentTabsCourseFive": [
+			"Naturspielgruppe"
+		],
+		"tableBlockLinkContentTabsCommunicationOne": [
+			"Gordon-Lösungsmanagement 5 Module"
+		],
+		"tableBlockLinkContentTabsCommunicationTwo": [
+			"Kommunikationskurs Gordon-Familientraining"
+		],
+		"tableBlockLinkContentTabsCreativeOne": [
+			"Mutter-Kind Mosaikkugeltag"
+		],
+		"tableBlockLinkContentTabsCreativeTwo": [
+			"Möbel aufpimpen"
+		],
+		"tableBlockLinkContentTabsCreativeThree": [
+			"Mosaiktag"
+		],
+		"tableBlockLinkContentTabsCreativeFour": [
+			"Mosaik-Kugelkurs"
+		],
+		"tableBlockLinkNaturePlaygroupOne": [
+			"Flyer Schnuppernachmittage"
+		],
+		"tableBlockLinkNaturePlaygroupTwo": [
+			"Allgemeine Informationen Naturspielgruppe"
+		],
+		"tableBlockLinkNaturePlaygroupThree": [
+			"Anmeldeformular"
+		],
+		"bodyFooterSpollerTwoText": [
+			"Gordon Familientraining"
+		],
+		"mainPageBlock": [
+			{
+				"p1": "Inmitten der Natur, auf dem schönen Dietelsberg befindet sich dieser Ort, der zum Gestalten von vielseitigen Kreationen anregt und der gleichzeitig Raum bietet für Begegnungen und Gespräche.",
+				"p2": "Aus unserem alten Hühnerstall ist ein Atelier entstanden, in welchem Kreativität und Kommunikation gelebt werden kann.",
+				"p3": "In den <a href=\"#\" class=\"block-main__parahraph-link\">Kreativkursen</a> gestalten wir zum Beispiel individuelle Mosaikkugeln aus Keramikfliesen.",
+				"p4": "In den <a href=\"#\" class=\"block-main__parahraph-link\">Kommunikationskursen</a> wird ein Elternbildungstraining nach Thomas Gordon angeboten.",
+				"p5": "In einem persönlichen <a href=\"#\" class=\"block-main__parahraph-link\">Coaching</a> finden Sie individuelle Lösungen zu Ihrer aktuellen Herausforderung.",
+				"p6": "Ich freue mich auf eine Begegnung mit Ihnen."
+			}
+		],
+		"aboutPageBlock": [
+			{
+				"p1": "Ich bin mit sechs Geschwistern in einer grossen Familie aufgewachsen. Da war Kommunizieren immer ein Thema. Ob beim Abwaschen oder mit Besuch, irgendwie war ich immer inmitten von Gesprächen. Ich liebte stets Begegnungen aller Art und zähle noch heute Kontakte pflegen zu meinen Hobbys.",
+				"p2": "Im Jahr 2010 habe ich meine Leidenschaft zum Beruf gemacht und mich zur Kommunikationstrainerin ausgebildet. Seitdem biete ich das seit 50 Jahren bewährte Gordon-Familientraining an, welches zum Ziel hat, dank klarer Kommunikation Beziehungen zu fördern. Als Mutter von fünf Kindern habe ich täglich ein praktisches Übungsfeld und damit selber nie ausgelernt. Das Finden von Alternativen zur Machtausübung ist zum Beispiel ein Thema im Kurs und wir erleben in unserer Familie selber, wie es auch ohne Strafen geht. Das ist für alle sehr erleichternd. Das Kommunikationsmodell hat Ähnlichkeiten mit der gewaltlosen Kommunikation und beinhaltet kreative Lösungsfindungen bei Problemen.",
+				"p3": "Kreativ war ich schon gerne als Kind. Mich faszinierten stets Produkte, die aus altem, scheinbar Unnützlichem entstanden sind. So pilgerte ich durch unseren grossen Obstgarten, sammelte Fallobst und kreierte einen feinen Apfelkuchen. Meine Begeisterung am Backen und Kochen führte später zur Ausbildung als Kochlehrerin.",
+				"p4": "Oder ich schmolz liebend gerne die leeren Joghurtplastikbecher, die zwar das Haus in beissenden Rauch hüllten, aber faszinierende Schmuckstücke hervorbrachten. Alle Basteltrends, von Gipsgiessen bis Makramé, habe ich voll Elan mitgemacht und meine Schlussarbeit in der Ausbildung zur Handarbeitslehrerin bestand darin, aus leeren Konservendosen schmucke, funktionstüchtige Tischlämpchen zu gestalten.",
+				"p5": "Durch den Besuch des Skulpturenmosaikparks von Bruno Weber wurde ich das Bild nicht mehr los, wie unser eigenes Bad einmal mit Mosaik aussehen würde und ich wurde vom Mosaikvirus befallen. Im Sommer 2012 verwirklichte ich den Traum und gestaltete endlich eine besondere Mosaikwand im Atelier, die nun Inspiration für Atelierbesucher sein kann, wenn eigene Mosaikarbeiten geplant werden. Meine Weiterbildung zur Erwachsenenbildnerin SVEB 1 ging einher mit dem Umbau zum vielseitig nutzbaren Atelier.",
+				"p6": "2015 schloss ich die eindrückliche Ausbildung als lösungsorienterten Coach ab.",
+				"p7": "„Believe that good things will happen and they will…“ – Unbekannt",
+				"p8": "Nun freue ich mich, dass unter einem Dach so mancher Kurs und Begegnungen stattfinden können."
+			}
+		],
+		"gordonPageItem1": [
+			"Herausfinden wo die Probleme liegen.",
+			"Wirksam meine Grenzen setzen ohne andere zu verletzen.",
+			"Mir Gehör verschaffen, wenn ich etwas brauche.",
+			"Aktiv zuhören, so dass andere sich verstanden fühlen.",
+			"Alternativen zu Machtmissbrauch, Drohen und Strafen entdecken.",
+			"Konflikte so lösen, dass alle zufrieden sind.",
+			"Vermitteln wenn Kinder streiten.",
+			"Abmachungen kreativ vereinbaren.",
+			"Familienkonferenz als Problemlösungsmodell anwenden.",
+			"Umgang mit eigenen Wertvorstellungen und Wertkollisionen."
+		],
+		"gordonPageItem2": [
+			"Grundlagen guter Beziehungen",
+			"Klar Kommunizieren",
+			"Familienkonferenz",
+			"Umgang mit Medien",
+			"Streiten, streiten, streiten…"
+		],
+		"parahraphGordonText1": "Manchmal sind die besten Vorsätze bezüglich Erziehung und harmonischem Familienleben schwierig zu verwirklichen.",
+		"parahraphGordonText2": "Leider lösen sich Idealvorstellungen allzu häufig im hektischen Alltag auf.",
+		"parahraphGordonText3": "Es gibt viele Missverständnisse, obwohl wir es gut meinen! Erziehende können jedoch lernen, Konflikte konstruktiv zu lösen und schwierige Situationen gelassener anzugehen. Das Familientraining ist hilfreich im Umgang mit trotzenden Kleinkindern, pubertierenden Jugendlichen und im Dialog mit bereits erwachsenen Familienmitgliedern. Auch im Berufsalltag fördern gute Gespräche durch klare Kommunikation das Verständnis. Durch gewaltfreies Kommunizieren bringen wir Wertschätzung in zwischenmenschliche Beziehungen!",
+		"parahraphGordonText4": "Das Training dauert 30 Stunden. Dabei wird die Theorie mit vielen Fallbeispielen erläutert und durch praktische Übungen vertieft, damit das Gehörte im herausfordernden Alltag wirkungsvoll um- und eingesetzt werden kann.",
+		"parahraphGordonText5": "In lockerem Rahmen treffen wir uns fünf Mal im Jahr zum Austauschen. Wir nehmen uns Zeit, um zu reflektieren. Was funktioniert in meiner Familie bereits gut, welche Punkte aus dem Alltag möchte ich noch konkret anschauen und allenfalls verändern bzw. optimieren.",
+		"parahraphGordonText6": "Eltern sein, ein „Beruf“ mit vielen Herausforderungen und grossen Erwartungen!<br> Ein „Beruf“ der nirgends gelernt wird und doch so viele Fragen aufwirft. <br> Ich unterstütze und begleite Sie gerne um Ihren Familienalltag entspannter werden zu lassen.",
+		"parahraphGordonText7": "Zum Kennenlernen des Gordonmodells, biete ich einen Workshop an, der an gewünschtem Termin bei mir im Atelier besucht werden kann.",
+		"parahraphGordonText8": "Gerne komme ich auch bei Ihnen vorbei, z.B. für einen Vortrag in Ihrer Gemeinde oder an Ihrer Schule.",
+		"parahraphGordonText9": "Dr. Thomas Gordon war praktizierender Psychologe in den USA. Er promovierte an der Universität von Chicago, wo er auch unterrichtete. Durch seine Erfahrungen in der Arbeit mit Kindern und Jugendlichen erkannte er die grosse Bedeutung der Kommunikation und gewaltfreien Konfliktlösung für die zwischenmenschliche Beziehung. Basierend auf wissenschaftlichen Grundlagen und der humanistischen Psychologie von Carl Rogers entwickelte er bereits 1955 ein Führungsprogramm für Handel und Industrie („Group centered leadership“) und erkannte die grosse Ähnlichkeit der Aufgabenstellung für die Beziehungen in der Familie. Das erste Elterntraining fand 1962 statt. Dr. Thomas Gordon gehört zu den Pionieren der humanistischen Psychologie und ist der Überzeugung, dass Menschen, die in einem fürsorglichen und freiheitlichen Klima aufwachsen, in hohem Masse fähig werden, Verantwortung zu tragen und ein selbstbestimmtes, erfülltes Leben zu führen. Er ist Autor mehrerer Bücher zu den Themen Kommunikation, Erziehung und Beziehungen. Sein wohl bekanntestes Buch „Die Familienkonferenz“ wurde weltweit millionenfach verkauft. Um interessierten Personen die Anwendung seiner Methoden zu erleichtern, entwickelte er bereits in den 60er Jahren verschiedene spezifische Trainingskurse für Eltern, Erziehungspersonen, Manager, etc. Für seine Arbeiten wurde Dr. Thomas Gordon mehrfach ausgezeichnet und für den Friedensnobelpreis nominiert.",
+		"parahraphGordonText10": "Thomas Gordon hat die Grundhaltung, die hinter seinem Modell steht, wie folgt formuliert: „Du und ich stehen in einer Beziehung zueinander, die ich wertvoll finde und bewahren will. Jeder von uns ist ein einzigartiger Mensch mit Bedürfnissen, die er auf seine Art befriedigen möchte. Wenn du Probleme hast, deine Bedürfnisse zu befriedigen, werde ich dir annehmend und verständnisvoll zuhören, um dir zu helfen, eigene Lösungen zu finden, anstatt dir meine anzubieten. Ich respektiere dein Recht, eigene Glaubensgrundsätze und Wertvorstellungen zu entwickeln, auch wenn sie anders sind als meine.",
+		"parahraphGordonText11": "Wenn mich indessen dein Verhalten daran hindert, meine Bedürfnisse zu befriedigen, werde ich dir offen und ehrlich sagen, wie mir zumute ist. Und ich bin zuversichtlich, dass du meine Bedürfnisse und Gefühle genügend beachtest, um allenfalls dein für mich unannehmbares Verhalten zu ändern. Und, wenn immer ich dich mit meinem Verhalten behindere, hoffe ich, dass auch du mir dies sagst, damit ich dir entgegenkommen kann und mein Verhalten angemessen ändere.",
+		"parahraphGordonText12": "Wenn es einem von uns nicht möglich ist, sich so zu verhalten, dass der andere seine Bedürfnisse befriedigen kann, bedeutet das für mich, dass wir einen Konflikt haben. Ich möchte einen solchen Konflikt mit dir lösen, ohne dass einer von uns Drohungen oder Gewalt anwendet, um auf Kosten des andern zu siegen. Ich werde Deine Bedürfnisse ebenso respektieren, wie meine, und gemeinsam mit dir nach Lösungen suchen, welche unsere Bedürfnisse befriedigen und für uns beide akzeptabel sind. Wir werden jene Lösung wählen, die weder Sieger noch Verlierer zurücklässt – beide werden gewinnen.",
+		"parahraphGordonText13": "Auf diese Weise kann jeder von uns gleichermassen seine Persönlichkeit entwickeln, und indem er seine Bedürfnisse befriedigt, zu dem Menschen werden, zu dem er fähig ist. So können wir eine liebevolle, friedfertige und von Respekt getragene Beziehung zueinander haben.“",
+		"gordonPageHeadlineList1": "Themenschwerpunkte des Kurses:",
+		"gordonPageHeadlineList2": "Mögliche Themen:",
+		"gordonPageText1": "Kommunikation ist eine tägliche Herausforderung!",
+		"gordonPageText2": "Ein Gordon-Familientraining hilft dabei!",
+		"gordonPageSource": "Quelle: <a href=\"https://de.wikipedia.org/wiki/Gordon-Modell\" class=\"gordon-page__source-link\">Wikipedia</a>",
+		"gordonPageMembers": "Mindestzahl Teilnehmer: <span class=\"gordon-page__quantity\">6 </span>Personen",
+		"gordonPagePrice": "Kosten: <span class=\"gordon-page__number\">30.-</span><span class=\"gordon-page__mark\">Fr. / Person</span>",
+		"gordonPageHeadline1": "Gordon Vertiefungskurs",
+		"gordonPageHeadline2": "Einzelberatungen",
+		"gordonPageHeadline3": "Workshops",
+		"gordonPageHeadline4": "Elternbildungsvorträge",
+		"gordonPageHeadline5": "Dr. Thomas Gordon",
+		"gordonPageHeadline6": "Grundhaltung",
+		"gordonPageTitle": "Gordon Familientraining",
+		"errorpPageParahraph": "Diese Seite gibt es nicht.",
+		"mainPageTitle": "Herzlich willkommen im <span>KREATION</span>-Atelier!",
+		"mainPageQuote": "„Jenseits von richtig und falsch gibt es einen Ort, dort treffen wir uns. „",
+		"eventsPageHeadline": "nächste anlässe",
+		"BlockDateNextEventsOne": "30.März 2021",
+		"BlockDateNextEventsTwo": "19.Mai 2021",
+		"BlockDateNextEventsThree": "August 2021",
+		"aboutPageHeadline": "Über mich",
+		"aboutPageQuote": "„Im Mosaik zählt jeder Stein- unwichtige Steine gibt es nicht. „",
+		"courseOfferTitle": "Kursangebot im <span>KREATION</span>-Atelier",
+		"contentTabsCourseHeadlineOne": "Kursprogramm",
+		"contentTabsCourseHeadlineTwo": "Kommunikation",
+		"contentTabsCourseHeadlineThree": "Kreatives",
+		"contentTabsCourseHeadlineFour": "Naturspielgruppe",
+		"tabsGalleryTitleOne": "Galerie Atelier",
+		"tabsGalleryTitleTwo": "Galerie Dietelsberg",
+		"tabsGalleryTitleThree": "Galerie Mosaikprojekte",
+		"tabsGalleryTitleFour": "Galerie Mosaikkugeln",
+		"contentGalleryHeadlineOne": "Atelier",
+		"contentGalleryHeadlineTwo": "Dietelsberg",
+		"contentGalleryHeadlineThree": "Mosaikprojekte",
+		"contentGalleryHeadlineFour": "Mosaikkugeln",
+		"contentTabsCourseParahraphOne": " ",
+		"contentTabsCourseParahraphTwo": "In den Kommunikationskursen wird ein Elternbildungstraining nach <a href=\"gordon-familientraining.html\" class=\"content-tabs-course__link\">Thomas Gordon</a> angeboten.",
+		"contentTabsCourseParahraphThree": "In den Kreativkursen finden Sie Kurse in denen wir zum Beispiel individuelle Mosaikkugeln aus Keramikfliesen gestalten.",
+		"contentTabsCourseParahraphFour": "Zusammen erforschen wir die schöne und vielseitige Natur. Wir pflegen einen regen Kontakt mit Pony, Schafen, Hunden, Katzen und beobachten alles was kriecht und wächst. Wir bewegen uns, singen, malen und basteln mit Naturmaterialien…",
+		"tableBlockDateContentTabsCourseOne": "Auf Anfrage",
+		"tableBlockDateContentTabsCourseTwo": "Auf Anfrage",
+		"tableBlockDateContentTabsCourseThree": "Auf Anfrage",
+		"tableBlockDateContentTabsCourseFour": "Auf Anfrage",
+		"tableBlockDateContentTabsCourseFive": "26./27. August 2021",
+		"tableBlockDatecontentTabsCommunicationOne": "Auf Anfrage",
+		"tableBlockDatecontentTabsCommunicationTwo": "Auf Anfrage",
+		"tableBlockDatecontentTabsCreativeOne": "Auf Anfrage",
+		"tableBlockDatecontentTabsCreativeTwo": "Auf Anfrage",
+		"tableBlockDatecontentTabsCreativeThree": "Auf Anfrage",
+		"tableBlockDatecontentTabsCreativeFour": "Auf Anfrage",
+		"contentTabsCourseQuote": "„Unsere Aufgabe ist es, in der Familie eine fördernde Umgebung zu schaffen, damit selbständige, soziale, kreative und zufriedene Erwachsene heranwachsen können.“",
+		"blockFooterTopText": "Inmitten der Natur, auf dem schönen Dietelsberg befindet sich dieser Ort, der zum Gestalten von vielseitigen Kreationen anregt und der gleichzeitig Raum bietet für Begegnungen und Gespräche.",
+		"spollerFooterTopTitleOne": "Besuch",
+		"spollerFooterTopTitleTwo": "Arbeitstag und Kontakt",
+		"spollerFooterTopTitleThree": "Hilfreiche Links",
+		"footerWeek1": "Mo-Fr: <span class=\"body-f-spoller__hour\">09.00 - 19.00</span>",
+		"footerWeek2": "Sa: <span class=\"body-f-spoller__hour\">10.00 - 18.00</span>",
+		"footerWeek3": "So: <span class=\"body-f-spoller__hour\">Wir sind geschlossen</span>",
+		"bottomFooterCopy": "Copyright © 2024 kreation-atelier.ch. Alle Rechte vorbehalten."
+	},
+	"English": {
+		"menuText": [
+			"Homepage",
+			"About us",
+			"Program of courses",
+			"Gallery"
+		],
+		"tableBlockLinkNextEventsOne": [
+			"Trial Day",
+			"Nature Playgroup"
+		],
+		"tableBlockLinkNextEventsTwo": [
+			"Trial Day",
+			"Nature Playgroup"
+		],
+		"tableBlockLinkNextEventsThree": [
+			"Nature Playgroup Sunny"
+		],
+		"tableBlockLinkcontentTabsCourseOne": [
+			"Gordon solution management 5 modules",
+			"Nature playgroup"
+		],
+		"tableBlockLinkcontentTabsCourseTwo": [
+			"Mother-child mosaic ball day",
+			"Nature playgroup"
+		],
+		"tableBlockLinkcontentTabsCourseThree": [
+			"Pimping up furniture"
+		],
+		"tableBlockLinkcontentTabsCourseFour": [
+			"Mosaic Day"
+		],
+		"tableBlockLinkcontentTabsCourseFive": [
+			"Nature playgroup"
+		],
+		"tableBlockLinkContentTabsCommunicationOne": [
+			"Gordon solution management 5 modules"
+		],
+		"tableBlockLinkContentTabsCommunicationTwo": [
+			"Gordon family training communication course"
+		],
+		"tableBlockLinkContentTabsCreativeOne": [
+			"Mother-child mosaic ball day"
+		],
+		"tableBlockLinkContentTabsCreativeTwo": [
+			"Pimping up furniture"
+		],
+		"tableBlockLinkContentTabsCreativeThree": [
+			"Mosaic Day"
+		],
+		"tableBlockLinkContentTabsCreativeFour": [
+			"Mosaic ball course"
+		],
+		"tableBlockLinkNaturePlaygroupOne": [
+			"Flyer taster afternoons"
+		],
+		"tableBlockLinkNaturePlaygroupTwo": [
+			"General information Nature play group"
+		],
+		"tableBlockLinkNaturePlaygroupThree": [
+			"Registration form"
+		],
+		"bodyFooterSpollerTwoText": [
+			"Gordon family training"
+		],
+		"mainPageBlock": [
+			{
+				"p1": "In the middle of nature, on the beautiful Dietelsberg, you will find this place that inspires the design of versatile creations and at the same time offers space for encounters and conversations.",
+				"p2": "Our old chicken coop has been transformed into a studio where creativity and communication can be lived.",
+				"p3": "In the <a href=\"#\" class=\"block-main__parahraph-link\">Creative courses</a> for example, we design individual mosaic balls from ceramic tiles",
+				"p4": "In the <a href=\"#\" class=\"block-main__parahraph-link\">Communication courses</a> we offer parent education training according to Thomas Gordon.",
+				"p5": "In a personal <a href=\"#\" class=\"block-main__parahraph-link\">Coaching</a> you will find individual solutions to your current challenge.",
+				"p6": "I look forward to meeting you."
+			}
+		],
+		"aboutPageBlock": [
+			{
+				"p1": "I grew up in a large family with six siblings, where communication was always important. Whether washing dishes or having visitors, I was somehow always in the middle of conversations. I've always loved all kinds of interactions and even today consider maintaining contacts as one of my hobbies.",
+				"p2": "In 2010, I turned my passion into a profession and trained as a communication trainer. Since then, I have been offering the Gordon Family Training, which has been proven effective for 50 years and aims to enhance relationships through clear communication. As a mother of five, I have a daily practice field and am constantly learning myself. Finding alternatives to exerting power is one topic in the course, and our family experiences firsthand how things can work without punishment. This is very relieving for everyone. The communication model has similarities to nonviolent communication and includes creative problem-solving.",
+				"p3": "I have loved being creative since childhood. I was always fascinated by products that came from old, seemingly useless things. I used to wander through our large orchard, collect fallen fruit, and create a delicious apple pie. My enthusiasm for baking and cooking later led to training as a cooking teacher.",
+				"p4": "Or I loved melting empty yogurt plastic cups, which filled the house with biting smoke but produced fascinating jewelry. I eagerly followed all crafting trends, from plaster casting to macramé, and for my final project in my craft teacher training, I created stylish, functional table lamps from empty tin cans.",
+				"p5": "After visiting Bruno Weber's sculpture mosaic park, I couldn't shake the image of how our own bathroom could look with mosaics, and I caught the mosaic bug. In the summer of 2012, I realized my dream and finally created a special mosaic wall in the studio, which can now serve as inspiration for visitors planning their own mosaic projects. My further education as an adult educator SVEB 1 coincided with the renovation into a versatile studio.",
+				"p6": "In 2015, I completed an impressive training as a solution-oriented coach.",
+				"p7": "“Believe that good things will happen and they will…” – Unknown",
+				"p8": "Now I am delighted that under one roof, many courses and encounters can take place."
+			}
+		],
+		"gordonPageItem1": [
+			"Identify where the problems lie.",
+			"Effectively set my boundaries without hurting others.",
+			"Make myself heard when I need something.",
+			"Listen actively so that others feel understood.",
+			"Discover alternatives to abuse of power, threats, and punishment.",
+			"Resolve conflicts so that everyone is satisfied.",
+			"Mediate when children argue.",
+			"Creatively make agreements.",
+			"Apply family conference as a problem-solving model.",
+			"Deal with personal values and value conflicts."
+		],
+		"gordonPageItem2": [
+			"Fundamentals of good relationships",
+			"Clear communication",
+			"Family conference",
+			"Dealing with media",
+			"Argue, argue, argue..."
+		],
+		"parahraphGordonText1": "Sometimes the best intentions regarding parenting and harmonious family life are difficult to realize.",
+		"parahraphGordonText2": "Unfortunately, ideal concepts often dissolve in the hectic everyday life.",
+		"parahraphGordonText3": "There are many misunderstandings, even though our intentions are good! Parents can learn to resolve conflicts constructively and approach difficult situations more calmly. Family training is helpful in dealing with defiant toddlers, teenagers going through puberty, and in dialogue with already adult family members. Even in professional life, good conversations through clear communication promote understanding. Through non-violent communication, we bring appreciation into interpersonal relationships!",
+		"parahraphGordonText4": "The training lasts 30 hours. The theory is explained with many case examples and deepened through practical exercises so that what is heard can be implemented and used effectively in challenging everyday life.",
+		"parahraphGordonText5": "In a relaxed setting, we meet five times a year for exchange. We take time to reflect on what is already working well in my family, which points from everyday life I would like to look at more concretely and possibly change or optimize.",
+		"parahraphGordonText6": "Being a parent, a 'job' with many challenges and great expectations!<br> A 'job' that is not learned anywhere and yet raises so many questions. <br> I am happy to support and accompany you to make your family life more relaxed.",
+		"parahraphGordonText7": "To get to know the Gordon model, I offer a workshop that can be attended at my studio on a desired date.",
+		"parahraphGordonText8": "I am also happy to come to you, for example, for a lecture in your community or at your school.",
+		"parahraphGordonText9": "Dr. Thomas Gordon was a practicing psychologist in the USA. He received his doctorate from the University of Chicago, where he also taught. Through his work with children and adolescents, he recognized the great importance of communication and non-violent conflict resolution for interpersonal relationships. Based on scientific principles and the humanistic psychology of Carl Rogers, he developed a leadership program for trade and industry ('Group Centered Leadership') as early as 1955 and recognized the great similarity of the tasks for relationships in the family. The first parent training took place in 1962. Dr. Thomas Gordon is one of the pioneers of humanistic psychology and believes that people who grow up in a caring and liberal climate are highly capable of taking responsibility and leading a self-determined, fulfilling life. He is the author of several books on communication, parenting, and relationships. His best-known book, 'Parent Effectiveness Training,' has sold millions worldwide. To facilitate the application of his methods for interested individuals, he developed various specific training courses for parents, educators, managers, etc., as early as the 1960s. Dr. Thomas Gordon was repeatedly recognized for his work and nominated for the Nobel Peace Prize.",
+		"parahraphGordonText10": "Thomas Gordon formulated the basic attitude behind his model as follows: “You and I are in a relationship that I find valuable and want to preserve. Each of us is a unique person with needs that we want to satisfy in our own way. If you have problems meeting your needs, I will listen to you acceptingly and understandingly to help you find your own solutions, rather than offering you mine. I respect your right to develop your own beliefs and values, even if they are different from mine.",
+		"parahraphGordonText11": "However, if your behavior prevents me from meeting my needs, I will openly and honestly tell you how I feel. And I am confident that you will pay enough attention to my needs and feelings to change your unacceptable behavior towards me. And, whenever my behavior hinders you, I hope you will also tell me so that I can accommodate you and appropriately change my behavior.",
+		"parahraphGordonText12": "If it is not possible for either of us to behave so that the other can meet their needs, that means to me that we have a conflict. I want to resolve such a conflict with you without either of us using threats or violence to win at the other's expense. I will respect your needs as much as mine and work with you to find solutions that satisfy our needs and are acceptable to both of us. We will choose the solution that leaves neither winners nor losers - both will win.",
+		"parahraphGordonText13": "In this way, each of us can equally develop our personality and, by satisfying our needs, become the person we are capable of becoming. Thus, we can have a loving, peaceful, and respectful relationship with each other“",
+		"gordonPageHeadlineList1": "Main topics of the course:",
+		"gordonPageHeadlineList2": "Possible themes:",
+		"gordonPageText1": "Communication is a daily challenge!",
+		"gordonPageText2": "A Gordon family training helps with it!",
+		"gordonPageSource": "Source: <a href=\"https://en.wikipedia.org/wiki/Parent_Effectiveness_Training\" class=\"gordon-page__source-link\">Wikipedia</a>",
+		"gordonPageMembers": "Minimum number of participants: <span class=\"gordon-page__quantity\">6 </span>people",
+		"gordonPagePrice": "Cost: <span class=\"gordon-page__number\">30.-</span><span class=\"gordon-page__mark\">CHF / person</span>",
+		"gordonPageHeadline1": "Gordon Advanced Course",
+		"gordonPageHeadline2": "Individual Consultations",
+		"gordonPageHeadline3": "Workshops",
+		"gordonPageHeadline4": "Parenting Education Lectures",
+		"gordonPageHeadline5": "Dr. Thomas Gordon",
+		"gordonPageHeadline6": "Core Attitude",
+		"gordonPageTitle": "Gordon family training",
+		"errorpPageParahraph": "This page does not exist.",
+		"mainPageTitle": "Welcome to the <span>CREATION</span>-Studio!",
+		"mainPageQuote": "„Beyond right and wrong, there is a place. There we will meet.„",
+		"eventsPageHeadline": "next events",
+		"BlockDateNextEventsOne": "March 30, 2021",
+		"BlockDateNextEventsTwo": "May 19, 2021",
+		"BlockDateNextEventsThree": "August 2021",
+		"aboutPageHeadline": "About us",
+		"aboutPageQuote": "„Every tile counts in a mosaic - there are no unimportant tiles. „",
+		"courseOfferTitle": "Courses offered in the <span>KREATION</span>-studio",
+		"contentTabsCourseHeadlineOne": "Course Program",
+		"contentTabsCourseHeadlineTwo": "Communication",
+		"contentTabsCourseHeadlineThree": "Creative",
+		"contentTabsCourseHeadlineFour": "Nature Playgroup",
+		"tabsGalleryTitleOne": "Gallery Atelier",
+		"tabsGalleryTitleTwo": "Gallery Dietelsberg",
+		"tabsGalleryTitleThree": "Gallery mosaic projects",
+		"tabsGalleryTitleFour": "Gallery mosaic balls",
+		"contentGalleryHeadlineOne": "Atelier",
+		"contentGalleryHeadlineTwo": "Dietelsberg",
+		"contentGalleryHeadlineThree": "Mosaic projects",
+		"contentGalleryHeadlineFour": "Mosaic balls",
+		"contentTabsCourseParahraphOne": " ",
+		"contentTabsCourseParahraphTwo": "In the communication courses, parent education training based on <a href=\"gordon-familientraining.html\" class=\"content-tabs-course__link\">Thomas Gordon</a> is offered.",
+		"contentTabsCourseParahraphThree": "In the creative courses, you will find courses where we create unique mosaic spheres from ceramic tiles.",
+		"contentTabsCourseParahraphFour": "Together we explore the beautiful and diverse nature. We maintain lively contact with ponies, sheep, dogs, cats, and observe everything that crawls and grows. We move, sing, paint, and craft with natural materials...",
+		"tableBlockDateContentTabsCourseOne": "On request",
+		"tableBlockDateContentTabsCourseTwo": "On request",
+		"tableBlockDateContentTabsCourseThree": "On request",
+		"tableBlockDateContentTabsCourseFour": "On request",
+		"tableBlockDateContentTabsCourseFive": "August 26./27., 2021",
+		"tableBlockDatecontentTabsCommunicationOne": "On request",
+		"tableBlockDatecontentTabsCommunicationTwo": "On request",
+		"tableBlockDatecontentTabsCreativeOne": "On request",
+		"tableBlockDatecontentTabsCreativeTwo": "On request",
+		"tableBlockDatecontentTabsCreativeThree": "On request",
+		"tableBlockDatecontentTabsCreativeFour": "On request",
+		"contentTabsCourseQuote": "“Our task is to create a supportive environment in the family so that independent, social, creative and satisfied adults can grow up.”",
+		"blockFooterTopText": "In the midst of nature, on the beautiful Dietelsberg, you will find this place, which encourages the creation of versatile creations and at the same time offers space for encounters and discussions.",
+		"spollerFooterTopTitleOne": "Visit",
+		"spollerFooterTopTitleTwo": "Office Hour and contact",
+		"spollerFooterTopTitleThree": "Useful Link",
+		"footerWeek1": "Mo-Fr: <span class=\"body-f-spoller__hour\">09.00 - 19.00</span>",
+		"footerWeek2": "Sa: <span class=\"body-f-spoller__hour\">10.00 - 18.00</span>",
+		"footerWeek3": "Su: <span class=\"body-f-spoller__hour\">We are closed</span>",
+		"bottomFooterCopy": "Copyright © 2024 kreation-atelier.ch. All Rights Reserved."
+	}
+}
